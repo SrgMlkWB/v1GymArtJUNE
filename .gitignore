@@ -1,0 +1,22 @@
+# Node
+node_modules/
+.env
+.DS_Store
+*.log
+dist/
+build/
+coverage/
+
+# System
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Others
+*.local
